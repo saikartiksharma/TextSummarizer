@@ -53,13 +53,12 @@ Follow these steps to set up and run the application:
     Get Summary: Click on the "Generate Summary" button to receive the summarized text.
 
 7. Screenshots
-![alt text](images/image.png)
+    ![alt text](images/image.png)
 
 8. Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please create a pull request or submit an issue.
-
-Fork the repository.
-Create your feature branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+    Contributions are welcome! If you have suggestions for improvements or new features, please create a pull request or submit an issue.
+    Fork the repository.    
+    Create your feature branch (git checkout -b feature/YourFeature).
+    Commit your changes (git commit -m 'Add some feature').
+    Push to the branch (git push origin feature/YourFeature).
+    Open a pull request.
