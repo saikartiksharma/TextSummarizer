@@ -22,39 +22,39 @@ Follow these steps to set up and run the application:
    git clone https://github.com/YOUR_USERNAME/text-summarizer.git
    cd text-summarizer
 
-2. Install the dependencies:
-    - The project relies on the following libraries:
-        - customtkinter: For creating a modern GUI.
-        - nltk: For natural language processing tasks such as tokenization and stemming.
-        - scikit-learn: For TF-IDF vectorization to evaluate the importance of sentences.
-    - Make sure to install these dependencies by running the command:
-        ```sh
-        pip install -r requirements.txt
+2. Dependencies:
+    - customtkinter: For creating a modern GUI.
+    - nltk: For natural language processing tasks such as tokenization and stemming.
+    - scikit-learn: For TF-IDF vectorization to evaluate the importance of sentences.
 
-3. Download NLTK data (if not already downloaded):
+3. Make sure to install these dependencies by running the command:
+    ```sh
+    pip install -r requirements.txt
+
+4. Download NLTK data (if not already downloaded):
     ```sh
     python -m nltk.downloader punkt stopwords
 
-4. Run the application:
+5. Run the application:
     ```sh
     python app.py
 
-5. Application Interface
+6. Application Interface
     - Text Input: Paste or type the text you want to summarize in the provided text box.
     - Number of Sentences: Specify the number of sentences you want the summary to be.
     - Generate Summary: Click the "Generate Summary" button to get the summarized text.
     - Summary Output: The summarized text will be displayed in the output text box.
 
-6. Example
+7. Example
     - Here is an example of how the application works:
     - Input Text: Paste a long piece of text into the input box.
     - Specify Sentences: Enter the number of sentences for the summary.
-    - Get Summary: Click on the "Generate Summary" button to receive the summarized text.
+    - Get Summary: Click on the "Generate Summary" button to receive the summarized text.   
 
-7. Screenshots
+8. Screenshots
     ![alt text](images/image.png)
 
-8. Contributing
+9. Contributing
     - Contributions are welcome! If you have suggestions for improvements or new features, please create a pull request or submit an issue.
     - Fork the repository.    
     - Create your feature branch (git checkout -b feature/YourFeature).
