@@ -1,0 +1,5 @@
+customtkinter
+nltk
+scikit-learn
+transformers
+torch
