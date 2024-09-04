@@ -53,11 +53,3 @@ Follow these steps to set up and run the application:
 
 8. Screenshots
     ![alt text](images/image.png)
-
-9. Contributing
-    - Contributions are welcome! If you have suggestions for improvements or new features, please create a pull request or submit an issue.
-    - Fork the repository.    
-    - Create your feature branch (git checkout -b feature/YourFeature).
-    - Commit your changes (git commit -m 'Add some feature').
-    - Push to the branch (git push origin feature/YourFeature).
-    - Open a pull request.
