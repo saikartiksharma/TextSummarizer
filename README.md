@@ -56,8 +56,8 @@ Follow these steps to set up and run the application:
 
 ## Contributions
 
-Thanks to these wonderful people who have contributed to this project:
+Thanks to these amazing contributors:
 
-- [@Dhanesh](https://github.com/dhaneshsai7)
-- [@ShriHimaja](https://github.com/ShriHimaja)
-- [@Vamsi](https://github.com/Vamsi2428)
+| [![dhaneshsai7](https://github.com/dhaneshsai7.png?size=100)](https://github.com/dhaneshsai7) | [![ShriHimaja](https://github.com/ShriHimaja.png?size=100)](https://github.com/ShriHimaja) | [![Vamsi2428](https://github.com/Vamsi2428.png?size=100)](https://github.com/Vamsi2428) |
+|:---:|:---:|:---:|
+| [dhaneshsai7](https://github.com/dhaneshsai7) | [ShriHimaja](https://github.com/ShriHimaja) | [Vamsi2428](https://github.com/Vamsi2428) |
