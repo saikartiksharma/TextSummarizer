@@ -53,3 +53,11 @@ Follow these steps to set up and run the application:
 
 8. Screenshots
     ![alt text](images/image.png)
+
+## Contributions
+
+Thanks to these wonderful people who have contributed to this project:
+
+- [@Dhanesh](https://github.com/dhaneshsai7)
+- [@ShriHimaja](https://github.com/ShriHimaja)
+- [@Vamsi](https://github.com/Vamsi2428)
